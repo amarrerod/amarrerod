@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 my name is Alejandro and I'm a PhD Student at Universidad de La Laguna.
+---
+
+#### Social
+
+- 💬 [Twitter](https://twitter.com/amarre_)
+- 👩🏻‍💻 [LinkedIn](https://www.linkedin.com/in/alemarrero)
+
+
+### 👇 My favourite repos 👇
 
 <!--
 **amarrerod/amarrerod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
