@@ -1,6 +1,13 @@
 ### Hi there 👋 my name is Alejandro and I'm a PhD Student at Universidad de La Laguna.
 ---
 
+I'm currently working on my PhD Thesis about Machine Learning and optimisation as well as developing my skills on:
+
+- Tensorflow and Keras :robot:.
+- Data Science :chart_with_upwards_trend:.
+- Python :snake:.
+
+
 #### Social
 
 - 💬 [Twitter](https://twitter.com/amarre_)
