@@ -1,17 +1,16 @@
-### Hi there 👋 my name is Alejandro and I'm a PhD Student at Universidad de La Laguna.
+## Hi there 👋 my name is Alejandro and I'm a PhD Student at Universidad de La Laguna.
 ---
 
-- 🔭 I’m currently working on a GA Parallel approach.
-- 🌱 I’m currently learning Typescript,.
-- 📫 How to reach me: amarrerd@ull.edu.es
-
-#### Social
-
-- 💬 [Twitter](https://twitter.com/amarre_)
-- 👩🏻‍💻 [LinkedIn](https://www.linkedin.com/in/alemarrero)
-
+- 🔭 I’m currently working on Solving the ASP for the Knapsack Problem.
+- 🌱 I’m currently learning Typescript, Tensorflow and Keras.
+- 👯 I'm lookin to collaborate on Open Source optimisation tools.
+- 📫 How to reach me: 
+  - 📫 amarrerd@ull.edu.es
+  - 💬 [Twitter](https://twitter.com/amarre_)
+  - 👩🏻‍💻 [LinkedIn](https://www.linkedin.com/in/alemarrero)
 
 
+### Stats
 [![Marrero's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarrerod&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
