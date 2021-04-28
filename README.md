@@ -2,8 +2,8 @@
 ---
 
 - 🔭 I’m currently working on Solving the ASP for the Knapsack Problem.
-- 🌱 I’m currently learning Typescript, Tensorflow and Keras.
-- 👯 I'm lookin to collaborate on Open Source optimisation tools.
+- 🌱 I’m currently learning Rust, and ML with Tensorflow and Keras.
+- 👯 I'm looking to collaborate on Open Source optimisation tools.
 - 📫 How to reach me: 
   - 📫 amarrerd@ull.edu.es
   - 💬 [Twitter](https://twitter.com/amarre_)
